@@ -4,4 +4,7 @@ node_modules
 # Local Netlify folder
 .netlify
 .eslintcache
+<<<<<<< HEAD
 .git
+=======
+>>>>>>> 54194fb60caabf6243ec1fb82e9206f1b5c57551
